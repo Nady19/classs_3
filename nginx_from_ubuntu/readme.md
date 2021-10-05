@@ -9,8 +9,10 @@
 
 **Possible reasons:** , 
 
-| if your PC has ubuntu and docker |another reason might be the OS,| or maybe in my pc all  | 
-|installed and Dockerhub is already|itself has nginx installed     |processes has access    |
-|associated then it pulls the nginx|on it as some kind of extension|to run in the background|
-|easily without any complication   |                               |no need to daemon off ! |
+ if your PC has ubuntu and docker installed and Dockerhub is already associated then it pulls the nginx easily without any complication   
 
+another reason might be the OS,
+
+or maybe in my pc all processes has access to run in the background
+itself has nginx installed on it as some kind of extension
+no need to daemon off !
